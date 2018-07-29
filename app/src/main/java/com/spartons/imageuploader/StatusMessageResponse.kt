@@ -1,0 +1,3 @@
+package com.spartons.imageuploader
+
+class StatusMessageResponse
